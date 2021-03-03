@@ -1,8 +1,9 @@
-## Welcome
+## Welcome to Wang Yufei's page.
 
-I am lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
+I am a student at the University of Edinburgh - Zhejiang University Institute, majoring in Biomedical Science.
 
-[My University of Edinburgh webpage](https://www.ed.ac.uk/profile/robert-young)
+
+
 
 You can use the [editor on GitHub](https://github.com/r0bah0lic/r0bah0lic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
